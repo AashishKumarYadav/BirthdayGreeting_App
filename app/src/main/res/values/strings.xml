@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="card">Creat Card</string>
+    <string name="input_hint">Aashish Kumar Yadav</string>
+    <string name="happy_birthday">Happy Birthday</string>
+</resources>
